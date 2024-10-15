@@ -7,7 +7,7 @@ import org.json.JSONObject;
 
 public class ExchangeRateAPI {
 
-    private static final String API_KEY = "1c0e7e3fdeedba876138e8b9"; // Tu clave API
+    private static final String API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"; // Tu clave API
     private static final String BASE_URL = "https://v6.exchangerate-api.com/v6/" + API_KEY + "/latest/";
 
     // Método para obtener la tasa de cambio entre dos monedas
